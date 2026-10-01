@@ -21,3 +21,14 @@ NOTE: the changes made in "home.py" should not reflect in "main" branch
 14. Create one PR request from any feature branch to "main" branch
 15. Add README.md to your task and attach the result in the same file.
 16. Tag the latest commit and mark it as "release v1.0"
+
+17. ## Branches Created
+
+- main
+- wishlist
+- checkout
+
+## Release Tag
+
+release-v1.0
+
